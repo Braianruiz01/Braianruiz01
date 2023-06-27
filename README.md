@@ -28,14 +28,13 @@ Me encanta superarme dia a dia. Soy muy curioso y tengo la necesidad de entender
 
 - 📫 Cómo contactarme *braianruiz14@gmail.com*
 
-- 📄 Puedes conocer más en mi [CV](https://ejemplo.com)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Conecta conmigo!</b>
 <p align="left">
-<a href="https://linkedin.com/in/guillermonunezfullstackwebdeveloperjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermonunezfullstackwebdeveloperjr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/braian-ruiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
